@@ -3,7 +3,7 @@ import numpy as np
 Prajwal = [100] #Food at reparo
 Marianna = [125, 155.88]
 Ashutosh = [50]
-Deepsing = [325+65.68]
+Deepsing = [325+65.68+20.05]
 Bjoern = [0]
 
 TotalCost = np.sum(Prajwal) + np.sum(Marianna) + np.sum(Ashutosh) + np.sum(Deepsing) + np.sum(Bjoern)
